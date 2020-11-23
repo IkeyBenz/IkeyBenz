@@ -7,7 +7,7 @@ Innovative, challenge-driven, and detail-oriented professional offering hands-on
 ## Technical Skills
 
 - Fluent in Typescript and Python
-- Backend Frameworks: Express, SocketIO, MongoDB
+- Backend Frameworks: Express, SocketIO, MongoDB, Flask
 - Frontend Frameworks: Bootstrap, React, React Native
 - Has a good grasp of large scale application architecture
 - Practices Test Driven Development
