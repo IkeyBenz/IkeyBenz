@@ -2,7 +2,7 @@
 
 ## Overview
 
-Innovative, challenge-driven, and detail-oriented professional offering hands-on experience in frontend engineering, program and application development, and process automation. Adept at identifying and recommending effective solutions and plans toward the attainment of set-forth organizational objectives. Highly skilled at promptly responding to and troubleshooting technical issues to ensure seamless workflow and tasks completion. Equipped with exceptional communication and interpersonal aptitudes in building rapport with colleagues and professionals of all levels. Fluent in English and Spanish with basic knowledge of Hebrew.
+Innovative, challenge-driven, and detail-oriented professional offering hands-on experience in frontend engineering, program and application development, and process automation.
 
 ## Technical Skills
 
